@@ -1,6 +1,6 @@
 ### Hê lu 👋👋👋
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) github](https://github.com/phongtapcode)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) github](https://github.com/phongtapcode) [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phong-nguyen-ba-1a421726b/)
 
 
 ![Phong Ba github](https://github-readme-stats.vercel.app/api?username=phongtapcode&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
