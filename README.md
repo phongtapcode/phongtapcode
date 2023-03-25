@@ -2,7 +2,6 @@
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) github](https://github.com/phongtapcode)   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phong-nguyen-ba-1a421726b/)
 
-
 ![Phong Ba github](https://github-readme-stats.vercel.app/api?username=phongtapcode&show_icons=true&theme=radical&hide=contribs,prs,issues,env)
 
 <a href="https://github.com/phongtapcode/DSA_PTIT-2023">
